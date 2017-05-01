@@ -1,0 +1,43 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.HideOutput=0
+Compilator.ProgSaveAll=0
+Compilator.ProgRunSelection=0
+Compilator.LogType=0
+DefaultDir=D:\wamp64\www\Projet Legacy
+DefaultCPIndex=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+Extensions=.js
+[Project tree]
+Projet_Legacy
+	+Dossier
+		index.html
+		app.js
+		assets\js\scripts.js
+		package.json
+		Game.php
+[Open project files]
+0=index.html
+1=app.js
+2=assets\js\scripts.js
+3=Game.php
+[Selected Project Files]
+Main=
+Selected=app.js
+[index.html]
+TopLine=1
+Caret=8,36
+[app.js]
+TopLine=1
+Caret=1,1
+[assets\js\scripts.js]
+TopLine=1
+Caret=1,1
+[Game.php]
+TopLine=1
+Caret=1,1
