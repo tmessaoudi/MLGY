@@ -1,0 +1,63 @@
+body{
+}
+
+div {
+	text-align:center;
+	
+}
+
+h1 { 
+	font-family: "Algerian", Arial, Verdana, serif;
+	font-weight: lighter;
+}
+
+div#Introduction {
+	display: inline;
+	width:1400px;
+	height:relatif;
+	background-color:#00CCFF;
+	}
+#JeuCanvas{  
+	border: 1px solid gray;
+	display : inline-block;
+	background-color: #87CEEB;
+}
+
+div#menu {
+	
+	margin-right: 40px;
+	float:left;
+	width:200px;
+	height:400px;
+	}
+	
+div#contenu {
+	width:600px;
+	height:400px;
+	background-color:#FFCCFF;
+	}
+div#pied_page {
+	width:600px;
+	height:50px;
+	background-color:#33FF99;
+	}
+
+#canvasMenu{
+	float: right;
+	width: 200px;
+	display: none;
+}
+
+#panelConstr, #panelInfo {
+	padding: 5px;
+	width: 190px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+	float: right;
+	display: none;
+}
+
+#Info{
+	display: none;
+}
